@@ -11,4 +11,6 @@ I'm a student striving to become a web developer / software engineer.
     * Or if you have a good idea for a feature, open an issue. 
 
 - 📫 How to reach me: you can send me an email here -> [cjododev@gmail.com](mailto:cjododev@gmail.com?subject=[Github]%20Readme)
-<a href="https://www.buymeacoffee.com/gbraad" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>ttps://www.buymeacoffee.com/gbraad](https://buymeacoffee.com/cjodo))
+
+  
+<a href="https://www.buymeacoffee.com/cjodo" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>ttps://www.buymeacoffee.com/gbraad](https://buymeacoffee.com/cjodo))
