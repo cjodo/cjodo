@@ -11,3 +11,5 @@ I'm a student striving to become a web developer / software engineer.
     * Or if you have a good idea for a feature, open an issue. 
 
 - 📫 How to reach me: you can send me an email here -> [cjododev@gmail.com](mailto:cjododev@gmail.com?subject=[Github]%20Readme)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)]([https://www.buymeacoffee.com/gbraad](https://buymeacoffee.com/cjodo))
