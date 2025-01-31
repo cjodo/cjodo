@@ -1,14 +1,15 @@
-## A little about me
-
-I'm a student striving to become a web developer / software engineer.  
-
-- 🔭 I’m currently working on a realtime multiplayer tic-tac-toe server, written in go and react
-
-- 🌱 I'm always looking for new and exciting technologies to learn.  At the moment it's learing golang.  
-- 🤔 I’m looking for help with my Neovim plugin to help web developers convert between measurement units and color units.
-    * Try it out if you'd like, the repo is found here -> [convert.nvim](https://github.com/cjodo/convert.nvim)
-    * If you like it, consider poking around the code, pull requests are more than welcome! 
-    * Or if you have a good idea for a feature, open an issue. 
+<p align="center" width="100%">
+  <a href="https://github.com/cjodo/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=cjodo&show_icons=true&hide_title=true&count_private=true&show=reviews&hide_rank=true"
+        alt="Github Stats infographic showing prs, stars, issues etc."
+        height="200"/>
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=cjodo&row=2&column=4"
+        alt="Trophies that cjodo has achieved"
+        height="200"/>
+  </a>
+</p>
 
 - 📫 How to reach me: you can send me an email here -> [cjododev@gmail.com](mailto:cjododev@gmail.com?subject=[Github]%20Readme)
 
