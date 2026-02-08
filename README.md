@@ -5,12 +5,12 @@
 
 <p align="center" width="100%">
   <a href="https://github.com/cjodo/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=cjodo&show_icons=true&hide_title=true&count_private=true&show=reviews&hide_rank=true"
+    <img src="https://github-readme-stats-mu-ten-59.vercel.app/api?username=cjodo&theme=dracula"
         alt="Github Stats infographic showing prs, stars, issues etc."
         height="200"/>
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=cjodo&row=2&column=4"
+    <img src="https://github-profile-trophy-kannan.vercel.app/?username=cjodo&row=2&column=4&theme=onedark"
         alt="Trophies that cjodo has achieved"
         height="200"/>
   </a>
