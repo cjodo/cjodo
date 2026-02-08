@@ -1,3 +1,8 @@
+### Featured Projects:
+- [convert.nvim](https://github.com/cjodo/convert.nvim)
+- [presence.nvim](https://github.com/cjodo/presence.nvim)
+- [My Portfolio](https://github.com/cjodo/astro-portfolio/settings)
+
 <p align="center" width="100%">
   <a href="https://github.com/cjodo/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=cjodo&show_icons=true&hide_title=true&count_private=true&show=reviews&hide_rank=true"
