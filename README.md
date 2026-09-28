@@ -1,7 +1,7 @@
 ### Featured Projects:
+- [biosample.ca](https://biosample.ca)
 - [convert.nvim](https://github.com/cjodo/convert.nvim)
 - [presence.nvim](https://github.com/cjodo/presence.nvim)
-- [My Portfolio](https://github.com/cjodo/astro-portfolio/settings)
 
 <p align="center" width="100%">
   <a href="https://github.com/cjodo/github-readme-stats">
